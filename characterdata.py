@@ -6,7 +6,7 @@ class Character(object):
         self.health = 0
         self.stamina = 0
         self.mana = 0
-        self.points = 5
+        self.points = 0
         self.attributes = {
             'spirit': 0,
             'tolerance': 0,
