@@ -200,7 +200,7 @@ class HangmansForest(object):
         print("-------\n")
         print("{}".format(MAP_DATA['Hangmans Forest']))
         print("-------")
-        print("Main menu")
+        print("Main Menu")
         print("Inventory")
         print("-------")
         option = raw_input(">>> ")
