@@ -8,9 +8,9 @@
 # Version: '0.03'
 # Requires: Python:2.7
 
+from lexicon import *
 from gamedata import *
 from characterdata import *
-from lexicon import *
 
 class Reset(object):
 
