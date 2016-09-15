@@ -1,6 +1,6 @@
-def edit(par):
+def edit(per):
     try:
-        par = par.capitalize()
-        return par
+        per = per.capitalize()
+        return per
     except AttributeError:
-        return par
+        return per
