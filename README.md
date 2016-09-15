@@ -1,4 +1,4 @@
-# Into-the-Shadows
+# Into the Shadows
 A texted based RPG. The player creates a character and begins an epic and mysterious journey into another world.
 
 *In the early stages of developement.*
