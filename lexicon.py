@@ -1,6 +1,6 @@
 def edit(per):
     try:
-        per = per.capitalize()
+        per = per.title()
         return per
     except AttributeError:
         return per
