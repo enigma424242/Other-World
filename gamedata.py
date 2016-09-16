@@ -320,7 +320,7 @@ CLASS_DESCRIPTIONS = {
 MYSTERY_DATA = {
     "Shrunken head":
         "There's something evil about this... The skin feels like Leather and the eyes and mouth have to sewn shut. It even has it's own aura. As much as I would like to get rid of it I feel it is of great importance.",
-    "MonKey paw":
+    "Monkey paw":
         "Created for black magic. Most commoners would consider this item a taboo. I can't stand the damn thing but, it almost looks as though it is reaching out for me.",
     "Dragon scale":
         "Said to have once belonged to one of the eternal dragons. It radiates with a strong spiritual energy. I should hang onto it for safe keeping.",
