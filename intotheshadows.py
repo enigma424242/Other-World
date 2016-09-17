@@ -244,6 +244,7 @@ class Inventory(object):
         while True:
             print("-------\n")
             print("Back")
+            print("-------")
             option = raw_input(">>> ")
             option = edit(option)
             if option in wears:
