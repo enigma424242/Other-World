@@ -1,6 +1,6 @@
-def edit(per):
+def edit(option):
     try:
-        per = per.title()
-        return per
+        option = option.title()
+        return option
     except AttributeError:
-        return per
+        return option
