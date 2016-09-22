@@ -3,7 +3,7 @@
 
 # Author: Enigma
 # Contributor: Cheaterman
-# Version: '0.03'
+# Version: '0.04'
 # Requires: Python:2.7
 
 # Into the Shadows, is a text-based Role Playing Game.
