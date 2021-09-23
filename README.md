@@ -3,4 +3,4 @@
 *In the early stages of development.*
 
 A texted-based Role Playing Game.
-The player creates a character, then begins a journey into another world.
+The player creates a character, then begins an epic journey into another world.
