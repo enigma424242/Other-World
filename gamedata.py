@@ -82,7 +82,7 @@ CREATION_DATA = {
                 "Slot4": ""
             },
             "Consumables": {
-                "Slot1": '',
+                "Slot1": "",
                 "Slot2": "",
                 "Slot3": "",
                 "Slot4": ""
